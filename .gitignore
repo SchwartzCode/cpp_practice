@@ -1,0 +1,6 @@
+//shouldn't be any of these filetypes but better save than sorry
+
+MOOSLog*
+LOG_*
+.LasrOpenedMOOSLogDirectory
+.swp
