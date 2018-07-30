@@ -10,10 +10,10 @@ int main(int argc, char **argv)
     int a = atoi(argv[1]);
     int b = atoi(argv[2]);
 
-    for (int i=0;i<=a;i++)
+    for (int i=1;i<=a;i++)
     {
-      for(int j=0;j<=b;j++)
-        printf("%d ", i*j);
+      for(int j=1;j<=b;j++)
+        printf("%d\t", i*j);
     
       printf("\n");
     }
