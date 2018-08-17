@@ -166,7 +166,7 @@ int main () {
   a.getVals();
   a.rowMultiply(2, 10);
   a.getVals();
-  a.rowDivide(3, 2);
+  a.rowDivide(2, 2);
   a.getVals();
 
 
